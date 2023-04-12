@@ -1,2 +1,5 @@
 # chatui
-TUI for interacting with LLMs (WORK IN PROGRESS)
+
+### THIS IS A WORK IN PROGRESS
+
+TUI for interacting with LLMs.
